@@ -1,5 +1,5 @@
 ---
-In PencilCode, every program is a web page. PencilCode allows programmers to seamlessly switch between “block” and “text” modes. The underlying text lanugage is: CoffeeScript, JavaScript or HTML. You can switch between languages by selecting the gear icon in the blue bar at the top of the PencilCode coding environment.
+In PencilCode, every program is a web page. PencilCode allows programmers to seamlessly switch between “block” and “text” modes. The underlying text language is: CoffeeScript, JavaScript or HTML. You can switch between languages by selecting the gear icon in the blue bar at the top of the PencilCode coding environment.
 
 <iframe src="https://giphy.com/embed/DrZ0bl2LCt0noFFV1L" width="480" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/DrZ0bl2LCt0noFFV1L"></a></p>
 
@@ -11,7 +11,7 @@ Try the following basic commands in your PencilCode window. Press **run/play** t
 
 ![Sample Code](.guides/img/sampcode.png)
 
-**Sample Code #2:** Try the following code but enter into the text-based editor. Play around with changing the value of `n`, the `speed` and the color of the `pen`.
+**Sample Code #2:** Try the following code but enter it into the text-based editor. Play around with changing the value of `n`, the `speed` and the color of the `pen`.
 ```
 n = 6
 speed 5 

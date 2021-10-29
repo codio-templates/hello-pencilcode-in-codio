@@ -1,12 +1,20 @@
 ---
 
-Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
+Instruction through Codio is built around the guide feature. This is a brief description of how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
 
 ### Build on this Starter Pack
 ---
 Please note that this Starter Pack uses the PencilCode Alpha Stack. 
 
 ![PencilCode Stack](.guides/img/pencilcode.png)
+
+|||
+
+**PencilCode Software:**
+
+Note that you can install the PencilCode software on any stack from  **Tools > Install Software > PencilCode.**
+
+|||
 
 Follow the directions below to build out this project with your own activities in **PencilCode**:
 
